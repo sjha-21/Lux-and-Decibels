@@ -691,6 +691,7 @@ section {
   margin: 15px 0 0 0;
   font-size: 32px;
   font-weight: 700;
+  text-align: center;
 }
 
 .section-title h3:hover{
@@ -756,6 +757,11 @@ section {
   font-size: 20px;
   color: #f64668;
   line-height: 1;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+  text-align: justify;
 }
 
 .about .content p:last-child {
