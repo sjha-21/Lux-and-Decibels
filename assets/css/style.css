@@ -1011,6 +1011,12 @@ section {
   padding: 15px 20px;
 }
 
+
+.gdesc-inner {
+  height: 60px;
+}
+
+
 .portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
   color: #fff;
